@@ -1,0 +1,9 @@
+Bien sûr, voici quelques exercices à réaliser avec matplotlib :
+
+Tracer un graphique en courbes des fonctions f(x) = x et g(x) = x^2 pour x allant de -10 à 10.
+Créer un histogramme représentant la distribution de la taille des animaux dans un zoo donné.
+Tracer un graphique en nuage de points représentant les ventes mensuelles de différents produits pour une entreprise donnée.
+Créer un diagramme circulaire pour représenter les parts de marché de différentes entreprises dans un secteur donné.
+Tracer un graphique en barres représentant le nombre de personnes de différentes tranches d'âge dans une population donnée.
+
+J'espère que ces exercices vous donneront une bonne pratique de l'utilisation de matplotlib !
